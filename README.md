@@ -2,7 +2,7 @@
 
 A comprehensive job portal application with AI-powered features for job seekers and recruiters.
 
-## �� Features
+## Features
 
 ### Core Features
 - **Job Posting & Management**: Recruiters can post, edit, and manage job listings
